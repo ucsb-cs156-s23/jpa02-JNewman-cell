@@ -8,7 +8,7 @@ Repo: [https://ucsb-cs156-s23/jpa02-JNewman-Cell](https://github.com/ucsb-cs156-
   https://jpa02-cgaucho.herokuapp.com or https://jpa02-cgaucho.onrender.com
 
 
-Deployed at: https://jpa02-cgaucho.herokuapp.com
+Deployed at: [https://jpa02-cgaucho.herokuapp.com](https://git.heroku.com/jpa02h-jackson-newman.git)
 
 
 # About this repo
