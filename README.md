@@ -2,11 +2,6 @@
 
 Repo: [https://ucsb-cs156-s23/jpa02-JNewman-Cell](https://github.com/ucsb-cs156-s23/jpa02-JNewman-Cell)
 
-* TODO: Correct the "deployed at" link to app on Heroku or Render below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://jpa02-cgaucho.herokuapp.com or https://jpa02-cgaucho.onrender.com
-
 
 Deployed at: https://jpa02h-jackson-newman.herokuapp.com
 
