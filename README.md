@@ -1,6 +1,6 @@
 # jpa02-JNewman-Cell
 
-Repo: [https://ucsb-cs156-s23/STARTER-jpa02](https://github.com/ucsb-cs156-s23/jpa02-JNewman-Cell)
+Repo: [https://ucsb-cs156-s23/jpa02-JNewman-Cell](https://github.com/ucsb-cs156-s23/jpa02-JNewman-Cell)
 
 * TODO: Correct the "deployed at" link to app on Heroku or Render below, 
   then delete this TODO.  Replace it with 
